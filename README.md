@@ -20,7 +20,7 @@
 
 ![screenshot](https://github.com/primocms/primo/raw/master/screenshot-v2.png)
 
-## ⭐ Why Primo? 
+## ⭐ Why Primo?
 
 Traditional monolithic CMSs like WordPress, Drupal, and Joomla enable quick setup and easy content editing, but rely on antiquated and heavy development practices (often relying on plugins and third-party services to customize the site and add new components). Headless CMSs have popped up to modernize the view layer with modern development practices and frameworks, but have a poorer content editing experience due to their decoupling from the content layer.
 
@@ -83,4 +83,4 @@ Third-party services (all can be signed into with Github):
 For more details see this step-by-step installation [video guide](<https://www.youtube.com/watch?v=LEcKmhJsUzo>)
 
 ## Updating
-You can merge upstream updates by clicking 'Sync fork' on your forked repository. Your updates will automatically deploy to your web host.
+You can merge upstream updates by clicking 'Sync fork' on your forked repository. Your updates will automatically deploy to your web host..
